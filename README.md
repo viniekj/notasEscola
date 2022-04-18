@@ -1,9 +1,17 @@
 # notasEscola
-Sistema feito para calcular notas de uma escola.
+<p>🧮 Sistema feito para calcular notas de uma escola 🧮<br>
+🔟 Coloque notas de 1 a 10 e a calculadora dará a nota final 🔟</p>
 
-![Screenshot_1](https://user-images.githubusercontent.com/89022160/163869539-9e8a3b25-69b1-4c48-8a8f-1574f12346f9.png)<br>
+![notaescola](https://user-images.githubusercontent.com/89022160/163871721-3d73f85a-95e7-4db0-bf13-99bd246bcd7e.gif)
 
-Coloque o notas de 1 a 10 e a calculadora dará a nota final.
+<h2>MOBILE PREVIEW<h2>
+  
+  ![image](https://user-images.githubusercontent.com/89022160/163872884-e7c63d0e-dc7c-454d-887b-98b3fef7fc2e.png)
 
 
-![Screenshot_2](https://user-images.githubusercontent.com/89022160/163869794-20cf3f71-cc9e-46c4-8f9c-739b0d52d47f.png)
+
+
+
+
+
+
